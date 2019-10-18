@@ -1,1 +1,1 @@
-Hawe inhun
+print("Hawe inhun")
